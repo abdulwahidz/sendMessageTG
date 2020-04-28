@@ -1,0 +1,16 @@
+1. create bot in botFather
+    - search @botFather
+    - start @botFather
+    - send message /newbot
+    - input name misal 'Muslikhul Adib' and enter if end
+    - input username bot misal 'muslikhuladib_bot  and enter if end
+    - bot sudah jadi dan dapat token bot
+    - send message /mybot
+    - pilih bot yang baru dibuat
+    - bot setting | group privacy | turn off
+    - https://api.telegram.org/bot{{ token bot }}/getUpdates masih kosong karna belum chat kesiapa2..
+    - create group | admin bot | send message in group | check url tadi |
+
+2. ngoding
+    - bikin front end ny pakai bootstrap
+    - bikin curlny

@@ -1,0 +1,16 @@
+[2020-04-28 10:10:00.541] [sharedprocess] [info] main {"machineId":"8705331c62b49d8033edd137d53dd4031898a8c43c9550bcae421695aee171be","windowId":3}
+[2020-04-28 10:10:40.606] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-28 10:22:42.017] [sharedprocess] [info] Installing extension: sophisticode.php-formatter
+[2020-04-28 10:22:43.106] [sharedprocess] [info] Downloaded extension: sophisticode.php-formatter /tmp/2e460da1-8913-4d71-a817-2f6966456c7b
+[2020-04-28 10:22:43.251] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.sophisticode.php-formatter-0.2.4: sophisticode.php-formatter
+[2020-04-28 10:22:43.253] [sharedprocess] [info] Renamed to /root/.vscode/extensions/sophisticode.php-formatter-0.2.4
+[2020-04-28 10:22:43.258] [sharedprocess] [info] Installation completed. sophisticode.php-formatter
+[2020-04-28 10:22:43.263] [sharedprocess] [info] Extensions installed successfully: sophisticode.php-formatter
+[2020-04-28 10:24:34.273] [sharedprocess] [info] Uninstalling extension: sophisticode.php-formatter
+[2020-04-28 10:24:34.281] [sharedprocess] [info] Successfully uninstalled extension: sophisticode.php-formatter
+[2020-04-28 10:24:51.445] [sharedprocess] [info] Installing extension: kokororin.vscode-phpfmt
+[2020-04-28 10:24:57.204] [sharedprocess] [info] Downloaded extension: kokororin.vscode-phpfmt /tmp/8b30cf85-9aad-460e-88f8-693967c8aaae
+[2020-04-28 10:24:57.434] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.kokororin.vscode-phpfmt-1.0.30: kokororin.vscode-phpfmt
+[2020-04-28 10:24:57.435] [sharedprocess] [info] Renamed to /root/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30
+[2020-04-28 10:24:57.440] [sharedprocess] [info] Installation completed. kokororin.vscode-phpfmt
+[2020-04-28 10:24:57.454] [sharedprocess] [info] Extensions installed successfully: kokororin.vscode-phpfmt

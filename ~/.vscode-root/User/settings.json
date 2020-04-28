@@ -1,0 +1,10 @@
+{
+    "window.titleBarStyle": "custom",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Aurora X",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": -1,
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    }
+}

@@ -1,0 +1,5 @@
+[2020-04-24 09:18:10.359] [sharedprocess] [info] main {"machineId":"8705331c62b49d8033edd137d53dd4031898a8c43c9550bcae421695aee171be","windowId":2}
+[2020-04-24 09:18:10.413] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/telegramBot/~/.vscode-root/User/snippets'
+[2020-04-24 09:18:31.437] [sharedprocess] [info] main {"machineId":"8705331c62b49d8033edd137d53dd4031898a8c43c9550bcae421695aee171be","windowId":2}
+[2020-04-24 09:18:31.474] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/telegramBot/~/.vscode-root/User/snippets'
+[2020-04-24 09:19:11.451] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,8 @@
+28/04/2020, 10:25:25
+--------------------
+php "/root/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-oiissetjea.php
+
+28/04/2020, 10:35:40
+--------------------
+php "/root/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-peckvckh.php
+
